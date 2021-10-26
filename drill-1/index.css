@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: #d8d8d8;
+    width: 100%;
+    height: 100vh;
+}
+
+.boxtop{
+    background-color: #444444;
+    height: 20vh;
+    width: 100%;    
+}
+
+.boxmid{
+    background-color: #efefef;
+    margin: 0 auto;
+    height: 70vh;
+    width: 75%;
+    
+}
+
+.boxbottom{
+    background-color: #222222;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+}
